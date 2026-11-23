@@ -1,0 +1,29 @@
+# Entorno virtual de Python
+.venv/
+venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Configuracion de VS Code
+.vscode/
+
+# Archivos temporales de Excel
+~$*.xlsx
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Respaldos historicos de reportes
+reportes/respaldos/
+
+# Copia de respaldo de los datos
+datos/ventas_respaldo.xlsx
+
+# Historial de ejecuciones local
+reportes/ejecuciones.log
+
+# Copias historicas de resumenes
+reportes/resumen_ejecuciones_20*.xlsx
