@@ -74,6 +74,15 @@ El proyecto genera automaticamente los siguientes reportes:
 | reporte_calidad_avanzado.xlsx | Analisis avanzado de calidad de datos. |
 | reporte_general.xlsx | Resumen general de los indicadores del proyecto. |
 | historial_por_fecha.xlsx | Historial de ejecuciones por fecha. |
+## Vista Previa de los Dashboards
+
+### Dashboard Ejecutivo
+
+![Dashboard Ejecutivo](reportes/dashboard_ejecutivo.png)
+
+### Dashboard de Ventas
+
+![Dashboard de Ventas](reportes/dashboard_ventas.png)
 
 Adicionalmente, el sistema registra las ejecuciones en un archivo de log y genera respaldos automaticos de los reportes.
 
